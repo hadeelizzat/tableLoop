@@ -7,7 +7,7 @@ public class MultiplicationTable : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-    //assignment10
+    
            int Multiply (int no1,int no2){
             return no1*no2;
         }
